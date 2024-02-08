@@ -11,11 +11,6 @@
     ],
     "colorings": [
       {
-        "key": "num_date",
-        "title": "Sampling date",
-        "type": "continuous"
-      },
-      {
         "key": "genotype",
         "title": "genotype",
         "type": "categorical",
@@ -105,15 +100,21 @@
         ]
       },
       {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      },
+      {
         "key": "county",
         "title": "county",
         "type": "categorical"
       }
     ],
     "filters": [
+      "country",
       "county",
-      "HA_clade",
       "genotype",
+      "HA_clade",
       "NA_clade"
     ],
     "geo_resolutions": [
@@ -279,7 +280,8 @@
     "panels": [
       "tree",
       "map",
-      "frequencies"
+      "frequencies",
+      "entropy"
     ]
   },
   "tree": {
