@@ -8,25 +8,25 @@ A/Swine/Belzig/02/2001	2001-XX-XX	Germany	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Borken/21107/2014	2014-12-10	Germany	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Bothenheilingen/13765-3/2011	2011-08-14	Germany	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Denmark/10-25261/2011	2011-XX-XX	Denmark	1C.2.1	N1.EA	H1avN1#B	out
-A/swine/Denmark/201410-24-1p1/2014	2014-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#G	out
-A/swine/Denmark/201505758-1p1/2015	2015-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#H	out
+A/swine/Denmark/201410-24-1p1/2014	2014-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#G	out
+A/swine/Denmark/201505758-1p1/2015	2015-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#H	out
 A/swine/Denmark/201508913-3p1/2015	2015-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#E	out
 A/swine/Denmark/201616258-1p1/2016	2016-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#E	out
-A/swine/Denmark/201616851-1p1/2016	2016-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#G	out
-A/swine/Denmark/201618041p1/2016	2016-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#G	out
+A/swine/Denmark/201616851-1p1/2016	2016-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#G	out
+A/swine/Denmark/201618041p1/2016	2016-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#G	out
 A/swine/Denmark/2016284-1p1/2016	2016-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#F	out
 A/swine/Denmark/201711806-2_2p1/2017	2017-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#E	out
 A/swine/Denmark/201712241_1p1/2017	2017-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#E	out
-A/swine/Denmark/201713525-2_2p1/2017	2017-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#H	out
+A/swine/Denmark/201713525-2_2p1/2017	2017-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#H	out
 A/swine/Denmark/201721783_3p1/2017	2017-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#E	out
-A/swine/Denmark/201813990-1_1p1/2018	2018-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#G	out
-A/swine/Denmark/201816865-1_1p1/2018	2018-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#G	out
+A/swine/Denmark/201813990-1_1p1/2018	2018-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#G	out
+A/swine/Denmark/201816865-1_1p1/2018	2018-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#G	out
 A/swine/Denmark/201829912_1p1/2018	2018-XX-XX	Denmark	1C.2.4	N2.Gent	H1avN2#F	out
-A/swine/Denmark/2018455-1_1p1/2018	2018-XX-XX	Denmark	1C.2	N2.Gent	H1avN2#H	out
-A/swine/Dinklage/20995/2014	2014-11-26	Germany	1C.2	N2.Gent	H1avN2#G	out
+A/swine/Denmark/2018455-1_1p1/2018	2018-XX-XX	Denmark	1C.2.4*	N2.Gent	H1avN2#H	out
+A/swine/Dinklage/20995/2014	2014-11-26	Germany	1C.2.4*	N2.Gent	H1avN2#G	out
 A/swine/Ellerbrock/18558/2013	2013-09-09	Germany	1C.2.4	N2.Gent	H1avN2#E	out
 A/swine/Engelsberg/9321/2009	2009-03-27	Germany	1C.2.2	N1.EA	H1avN1#C	out
-A/swine/England/024079/2013	2013-08-21	England	1C.2.2	N1.EA	H1avN1#C	out
+A/swine/England/024079/2013	2013-08-21	United Kingdom	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Finnistere/800/2004	2004-10-01	France	1C.2.1	N1.EA	?	out
 A/swine/France/01-130054/2013	2013-01-22	France	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/France/01-130145/2013	2013-04-08	France	1C.2.2	N1.EA	H1avN1#C	out
@@ -157,8 +157,8 @@ A/swine/France/22-220666-1/2022	2022-10-03	France	1C.2.4	N2.Gent	H1avN2#E	COTES-
 A/Sw/France/22-230181-1/2022	2023-01-26	France	1C.2.4	N2.Gent	H1avN2#E	COTES-D'ARMOR (22)
 A/swine/France/24-170162/2017	2017-06-01	France	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/France/24-200063/2020	2020-01-14	France	1C.2.1	N1.EA	H1avN1#A	DORDOGNE (24)
-A/swine/France/24-200492/2020	2020-11-30	France	1C.2	N2.Gent	H1avN2#H	DORDOGNE (24)
-A/Sw/France/24-230094-2/2022	2022-11-09	France	1C.2	N2.Gent	H1avN2#I	DORDOGNE (24)
+A/swine/France/24-200492/2020	2020-11-30	France	1C.2.4*	N2.Gent	H1avN2#H	DORDOGNE (24)
+A/Sw/France/24-230094-2/2022	2022-11-09	France	1C.2.4*	N2.Gent	H1avN2#I	DORDOGNE (24)
 A/swine/France/27-220375-5/2022	2022-03-12	France	1C.2.4	N2.Gent	H1avN2#E	EURE (27)
 A/swine/France/28-200135/2020	2020-05-20	France	1C.2.4	N2.Gent	H1avN2#E	EURE-ET-LOIR (28)
 A/swine/France/28-200396/2020	2020-05-27	France	1C.2.1	N1.EA	H1avN1#A	EURE-ET-LOIR (28)
@@ -344,7 +344,7 @@ A/swine/France/59-180359/2018	2018-08-09	France	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/France/59-180465/2018	2018-11-13	France	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/France/59-190568/2020	2020-11-11	France	1C.2.1	N1.EA	H1avN1#A	NORD (59)
 A/swine/France/59-190581/2019	2019-11-26	France	1C.2.2	N1.EA	H1avN1#C	NORD (59)
-A/swine/France/59-200121/2020	2020-03-25	France	1C.2	N2.Gent	H1avN2#G	NORD (59)
+A/swine/France/59-200121/2020	2020-03-25	France	1C.2.4*	N2.Gent	H1avN2#G	NORD (59)
 A/swine/France/59-210424-2/2021	2021-07-18	France	1C.2.1	N1.EA	H1avN1#A	NORD (59)
 A/swine/France/59-220437-3/2022	2022-06-10	France	1C.2.2	N1.EA	H1avN1#C	NORD (59)
 A/swine/France/59-220536-3/2022	2022-06-01	France	1C.2.2	N1.EA	H1avN1#C	NORD (59)
@@ -415,7 +415,7 @@ A/swine/France/Morbihan-0294/2011	2011-06-13	France	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/France/WVL8/1992	1992-XX-XX	France	1C.2.1	N1.EA	?	out
 A/swine/Germany/R235/2013	2013-XX-XX	Germany	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Germany-BB/siv-leipz11308/2009	2009-XX-XX	Germany	1C.2.2	N1.EA	H1avN1#C	out
-A/swine/Germany-NI/R369/2009	2009-XX-XX	Germany	1C.2	N2.Gent	H1avN2#H	out
+A/swine/Germany-NI/R369/2009	2009-XX-XX	Germany	1C.2.4*	N2.Gent	H1avN2#H	out
 A/swine/Heiden/13820/2011	2011-08-24	Germany	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Horstmar/19085/2013	2013-10-30	Germany	1C.2.4	N2.Gent	H1avN2#E	out
 A/swine/Ille-et-Vilaine/1455/1999	1999-10-01	France	1C.2.1	N1.EA	?	out
@@ -427,16 +427,16 @@ A/swine/Italy/44482/2017	2017-03-13	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/58247/2020	2020-02-16	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/107012/2017	2017-12-22	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/112082/2017	2017-12-26	Italy	1C.2.1	N1.EA	H1avN1#A	out
-A/swine/Italy/228721/2017	2017-01-02	Italy	1C.2	N2.Gent	H1avN2#G	out
+A/swine/Italy/228721/2017	2017-01-02	Italy	1C.2.4*	N2.Gent	H1avN2#G	out
 A/swine/Italy/265041/2019	2019-07-30	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/269814/2013	2013-09-01	Italy	1C.2.1	N1.EA	H1avN1#A	out
-A/swine/Italy/286630/2019	2019-08-21	Italy	1C.2	N2.Gent	H1avN2#G	out
+A/swine/Italy/286630/2019	2019-08-21	Italy	1C.2.4*	N2.Gent	H1avN2#G	out
 A/swine/Italy/294170/2019	2019-08-28	Italy	1C.2.1	N2.Scot	H1avN2#A	out
 A/swine/Italy/317814/2019	2019-09-17	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/347423/2020	2020-10-27	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/349779/2017	2017-04-20	Italy	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Italy/351544/2017	2017-04-12	Italy	1C.2.1	N1.EA	H1avN1#A	out
-A/swine/Italy/373197/2019	2019-10-29	Italy	1C.2	N2.Gent	H1avN2#G	out
+A/swine/Italy/373197/2019	2019-10-29	Italy	1C.2.4*	N2.Gent	H1avN2#G	out
 A/swine/Italy/400317/2020	2020-12-07	Italy	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Italy/400367/2020	2020-12-07	Italy	1C.2.4	N2.Gent	H1avN2#F	out
 A/swine/Italy/428424/2019	2019-12-09	Italy	1C.2.1	N1.EA	H1avN1#A	out
@@ -450,7 +450,7 @@ A/swine/Poland/321/2012	2012-01-13	Poland	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Poland/1744/2012	2012-05-20	Poland	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Poland/006801/2013	2013-01-22	Poland	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Rhede/21178/2015	2015-01-15	Germany	1C.2.1	N1.EA	H1avN1#A	out
-A/swine/Scotland/034632/2012	2012-07-15	Scotland	1C.2.2	N1.EA	H1avN1#C	out
+A/swine/Scotland/034632/2012	2012-07-15	United Kingdom	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Soest/21748/2015	2015-05-25	Germany	1C.2.1	N1.EA	H1avN1#A	out
 A/swine/Spain/850/2016	2016-02-24	Spain	1C.2.2	N1.EA	H1avN1#C	out
 A/swine/Wittmund/8498/2009	2009-01-11	Germany	1C.2.2	N1.EA	H1avN1#C	out
