@@ -119,47 +119,6 @@
     ],
     "geo_resolutions": [
       {
-        "key": "country",
-        "demes": {
-          "Spain": {
-            "latitude": 40.0028028,
-            "longitude": -4.0031039
-          },
-          "United Kingdom": {
-            "latitude": 54.542713,
-            "longitude": -2.384858
-          },
-          "France": {
-            "latitude": 46.603354,
-            "longitude": 1.8883335
-          },
-          "Italy": {
-            "latitude": 42.6384261,
-            "longitude": 12.674297
-          },
-          "Denmark": {
-            "latitude": 56.0,
-            "longitude": 10.0
-          },
-          "Poland": {
-            "latitude": 52.0977181,
-            "longitude": 19.0258159
-          },
-          "Germany": {
-            "latitude": 51.0834196,
-            "longitude": 10.4234469
-          },
-          "Belgium": {
-            "latitude": 50.6407351,
-            "longitude": 4.66696
-          },
-          "Netherlands": {
-            "latitude": 52.3702,
-            "longitude": 4.8952
-          }
-        }
-      },
-      {
         "key": "county",
         "demes": {
           "FINISTERE (29)": {
@@ -273,6 +232,47 @@
           "EURE (27)": {
             "latitude": 49.07581668,
             "longitude": 1.04994929
+          }
+        }
+      },
+      {
+        "key": "country",
+        "demes": {
+          "Spain": {
+            "latitude": 40.0028028,
+            "longitude": -4.0031039
+          },
+          "United Kingdom": {
+            "latitude": 54.542713,
+            "longitude": -2.384858
+          },
+          "France": {
+            "latitude": 46.603354,
+            "longitude": 1.8883335
+          },
+          "Italy": {
+            "latitude": 42.6384261,
+            "longitude": 12.674297
+          },
+          "Denmark": {
+            "latitude": 56.0,
+            "longitude": 10.0
+          },
+          "Poland": {
+            "latitude": 52.0977181,
+            "longitude": 19.0258159
+          },
+          "Germany": {
+            "latitude": 51.0834196,
+            "longitude": 10.4234469
+          },
+          "Belgium": {
+            "latitude": 50.6407351,
+            "longitude": 4.66696
+          },
+          "Netherlands": {
+            "latitude": 52.3702,
+            "longitude": 4.8952
           }
         }
       }
