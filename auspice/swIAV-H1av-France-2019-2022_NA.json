@@ -114,104 +114,24 @@
       "country",
       "county",
       "genotype",
-      "NA_clade",
-      "HA_clade"
+      "HA_clade",
+      "NA_clade"
     ],
     "geo_resolutions": [
       {
         "key": "county",
         "demes": {
-          "MORBIHAN (56)": {
-            "latitude": 47.7469771,
-            "longitude": -2.883949448
-          },
-          "INDRE-ET-LOIRE (37)": {
-            "latitude": 47.22321657,
-            "longitude": 0.709322007
-          },
-          "LOIRE-ATLANTIQUE (44)": {
-            "latitude": 47.34681791,
-            "longitude": -1.752692014
-          },
-          "EURE-ET-LOIR (28)": {
-            "latitude": 48.44745193,
-            "longitude": 1.377160948
-          },
-          "DEUX-SEVRES (79)": {
-            "latitude": 46.53899759,
-            "longitude": -0.3358029
-          },
-          "TARN (81)": {
-            "latitude": 43.79217163,
-            "longitude": 2.239716362
-          },
-          "DORDOGNE (24)": {
-            "latitude": 45.14293411,
-            "longitude": 0.703130862
-          },
-          "TARN-ET-GARONNE (82)": {
-            "latitude": 44.0820557,
-            "longitude": 1.367236765
-          },
-          "GIRONDE (33)": {
-            "latitude": 44.88425122,
-            "longitude": -0.473336614
+          "FINISTERE (29)": {
+            "latitude": 48.25747384,
+            "longitude": -4.263040048
           },
           "HAUTE-SAVOIE (74)": {
             "latitude": 46.04514027,
             "longitude": 6.42564809
           },
-          "NORD (59)": {
-            "latitude": 50.52886519,
-            "longitude": 3.14785049
-          },
-          "MANCHE (50)": {
-            "latitude": 49.09192034,
-            "longitude": -1.342297168
-          },
-          "VENDEE (85)": {
-            "latitude": 46.67523044,
-            "longitude": -1.468278326
-          },
-          "PYRENEES-ATLANTIQUES (64)": {
-            "latitude": 43.18695856,
-            "longitude": -0.882295789
-          },
-          "FINISTERE (29)": {
-            "latitude": 48.25747384,
-            "longitude": -4.263040048
-          },
-          "AIN (1)": {
-            "latitude": 46.06421725,
-            "longitude": 5.449416696
-          },
-          "AVEYRON (12)": {
-            "latitude": 44.3166378,
-            "longitude": 2.645179989
-          },
-          "HAUTES-ALPES (5)": {
-            "latitude": 44.65666154,
-            "longitude": 6.247818944
-          },
-          "EURE (27)": {
-            "latitude": 49.07581668,
-            "longitude": 1.04994929
-          },
-          "SARTHE (72)": {
-            "latitude": 48.02602967,
-            "longitude": 0.23296901
-          },
-          "SOMME (80)": {
-            "latitude": 49.96902648,
-            "longitude": 2.29136997
-          },
-          "CANTAL (15)": {
-            "latitude": 45.04811593,
-            "longitude": 2.716408563
-          },
-          "VIENNE (86)": {
-            "latitude": 46.61238142,
-            "longitude": 0.555285953
+          "MORBIHAN (56)": {
+            "latitude": 47.7469771,
+            "longitude": -2.883949448
           },
           "COTES-D'ARMOR (22)": {
             "latitude": 48.45144512,
@@ -221,9 +141,61 @@
             "latitude": 48.15068688,
             "longitude": -0.644078797
           },
+          "SARTHE (72)": {
+            "latitude": 48.02602967,
+            "longitude": 0.23296901
+          },
+          "DORDOGNE (24)": {
+            "latitude": 45.14293411,
+            "longitude": 0.703130862
+          },
+          "VIENNE (86)": {
+            "latitude": 46.61238142,
+            "longitude": 0.555285953
+          },
+          "DEUX-SEVRES (79)": {
+            "latitude": 46.53899759,
+            "longitude": -0.3358029
+          },
+          "MANCHE (50)": {
+            "latitude": 49.09192034,
+            "longitude": -1.342297168
+          },
+          "TARN-ET-GARONNE (82)": {
+            "latitude": 44.0820557,
+            "longitude": 1.367236765
+          },
+          "INDRE-ET-LOIRE (37)": {
+            "latitude": 47.22321657,
+            "longitude": 0.709322007
+          },
+          "NORD (59)": {
+            "latitude": 50.52886519,
+            "longitude": 3.14785049
+          },
+          "CANTAL (15)": {
+            "latitude": 45.04811593,
+            "longitude": 2.716408563
+          },
+          "PYRENEES-ATLANTIQUES (64)": {
+            "latitude": 43.18695856,
+            "longitude": -0.882295789
+          },
           "ILLE-ET-VILAINE (35)": {
             "latitude": 48.16810541,
             "longitude": -1.652987116
+          },
+          "EURE-ET-LOIR (28)": {
+            "latitude": 48.44745193,
+            "longitude": 1.377160948
+          },
+          "TARN (81)": {
+            "latitude": 43.79217163,
+            "longitude": 2.239716362
+          },
+          "HAUTES-ALPES (5)": {
+            "latitude": 44.65666154,
+            "longitude": 6.247818944
           },
           "MAINE-ET-LOIRE (49)": {
             "latitude": 47.38969505,
@@ -232,15 +204,63 @@
           "SEINE-MARITIME (76)": {
             "latitude": 49.66155688,
             "longitude": 0.927917461
+          },
+          "SOMME (80)": {
+            "latitude": 49.96902648,
+            "longitude": 2.29136997
+          },
+          "LOIRE-ATLANTIQUE (44)": {
+            "latitude": 47.34681791,
+            "longitude": -1.752692014
+          },
+          "GIRONDE (33)": {
+            "latitude": 44.88425122,
+            "longitude": -0.473336614
+          },
+          "AIN (1)": {
+            "latitude": 46.06421725,
+            "longitude": 5.449416696
+          },
+          "AVEYRON (12)": {
+            "latitude": 44.3166378,
+            "longitude": 2.645179989
+          },
+          "VENDEE (85)": {
+            "latitude": 46.67523044,
+            "longitude": -1.468278326
+          },
+          "EURE (27)": {
+            "latitude": 49.07581668,
+            "longitude": 1.04994929
           }
         }
       },
       {
         "key": "country",
         "demes": {
+          "Spain": {
+            "latitude": 40.0028028,
+            "longitude": -4.0031039
+          },
           "United Kingdom": {
             "latitude": 54.542713,
             "longitude": -2.384858
+          },
+          "France": {
+            "latitude": 46.603354,
+            "longitude": 1.8883335
+          },
+          "Italy": {
+            "latitude": 42.6384261,
+            "longitude": 12.674297
+          },
+          "Denmark": {
+            "latitude": 56.0,
+            "longitude": 10.0
+          },
+          "Poland": {
+            "latitude": 52.0977181,
+            "longitude": 19.0258159
           },
           "Germany": {
             "latitude": 51.0834196,
@@ -249,26 +269,6 @@
           "Belgium": {
             "latitude": 50.6407351,
             "longitude": 4.66696
-          },
-          "Spain": {
-            "latitude": 40.0028028,
-            "longitude": -4.0031039
-          },
-          "Italy": {
-            "latitude": 42.6384261,
-            "longitude": 12.674297
-          },
-          "Poland": {
-            "latitude": 52.0977181,
-            "longitude": 19.0258159
-          },
-          "Denmark": {
-            "latitude": 56.0,
-            "longitude": 10.0
-          },
-          "France": {
-            "latitude": 46.603354,
-            "longitude": 1.8883335
           },
           "Netherlands": {
             "latitude": 52.3702,
