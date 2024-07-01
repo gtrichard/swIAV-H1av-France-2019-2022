@@ -1,18 +1,80 @@
 genotype	?	#8a8a8a
 genotype	H1avN1#A	#DB1654
 genotype	H1avN1#B	#E743C9
-genotype	H1avN1#C	#F31E1E
-genotype	H1avN1#D	#FF7B00
+genotype	H1avN1#C	#fc6060
+genotype	H1avN1#D	#f19b1d
 genotype	H1avN2#A	#1000BF
+genotype	H1avN2#B	#0059ff
+genotype	H1avN2#C	#21d8bf
+genotype	H1avN2#D	#0ebc7d
 genotype	H1avN2#E	#6321bf
 genotype	H1avN2#F	#0381a3
-genotype	H1avN2#G	#14CD7D
-genotype	H1avN2#H	#00AF00
-genotype	H1avN2#I	#9CBF00
+genotype	H1avN2#G	#40c529
+genotype	H1avN2#H	#008600
+genotype	H1avN2#I	#a8cb0c
 HA_clade	1C.2.1	#DB1654
-HA_clade	1C.2.2	#F31E1E
+HA_clade	1C.2.2	#ff88ff
 HA_clade	1C.2.4	#6321bf
-HA_clade	1C.2.4*	#14CD7D
+HA_clade	1C.2.4*	#6321bf
 NA_clade	N1.EA	#DB1654
 NA_clade	N2.Gent	#6321bf
 NA_clade	N2.Scot	#1000BF
+NA_clade	N2.Human	#ff9e59
+PB2_clade	PB2_EA	#DB1654
+PB2_clade	PB2_EA_DK	#6321bf
+PB2_clade	PB2_pdm	#FFE753
+PB1_clade	PB1_EA	#DB1654
+PB1_clade	PB1_EA_DK	#6321bf
+PB1_clade	PB1_pdm	#FFE753
+PA_clade	PA_EA	#DB1654
+PA_clade	PA_EA_DK	#6321bf
+PA_clade	PA_pdm	#FFE753
+NP_clade	NP_EA	#DB1654
+NP_clade	NP_EA_DK	#6321bf
+NP_clade	NP_pdm	#FFE753
+MP_clade	M_EA	#DB1654
+MP_clade	M_EA_DK	#6321bf
+MP_clade	M_pdm	#FFE753
+NS_clade	NS_EA	#DB1654
+NS_clade	NS_EA_DK	#6321bf
+NS_clade	NS_pdm	#FFE753
+county	AIN (1)	#b80000
+county	HAUTES-ALPES (5)	#d92b2b
+county	CANTAL (15)	#ff6161
+county	HAUTE-SAVOIE (74)	#913f3f
+county	COTES-D'ARMOR (22)	#0800ff
+county	FINISTERE (29)	#4d61ff
+county	ILLE-ET-VILAINE (35)	#3b52b8
+county	MORBIHAN (56)	#266bff
+county	EURE-ET-LOIR (28)	#d600bd
+county	INDRE-ET-LOIRE (37)	#f52fd0
+county	NORD (59)	#8a8a8a
+county	SOMME (80)	#595959
+county	SEINE-MARITIME (76)	#00fff7
+county	EURE (27)	#70caff
+county	MANCHE (50)	#00b3d6
+county	DORDOGNE (24)	#c8cf00
+county	GIRONDE (33)	#e6d412
+county	PYRENEES-ATLANTIQUES (64)	#e6ca43
+county	DEUX-SEVRES (79)	#e6c763
+county	VIENNE (86)	#b08600
+county	AVEYRON (12)	#ff5500
+county	TARN (81)	#d96c36
+county	TARN-ET-GARONNE (82)	#c96100
+county	LOIRE-ATLANTIQUE (44)	#00cf9b
+county	MAINE-ET-LOIRE (49)	#2cc980
+county	MAYENNE (53)	#0cab3c
+county	SARTHE (72)	#14b828
+county	VENDEE (85)	#67db40
+region	Auvergne-Rhône-Alpes	#d92b2b
+region	Bretagne	#0800ff
+region	Centre-Val de Loire	#d600bd
+region	Hauts-de-France	#595959
+region	Normandie	#00b3d6
+region	Nouvelle-Aquitaine	#c8cf00
+region	Occitanie	#d96c36
+region	Pays de la Loire	#67db40
+quadrant	NW	#0800ff
+quadrant	NE	#595959
+quadrant	SW	#d96c36
+quadrant	SE	#d92b2b
